@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ display()
+comment1.params=gameMode
+comment1.target=void\ move(int)
+comment2.params=
+comment2.target=int\ getPaddleLength()
+comment3.params=
+comment3.target=int\ getPaddleHeight()
+comment4.params=
+comment4.target=float\ getY()
+comment5.params=
+comment5.target=float\ getY2()
+numComments=6

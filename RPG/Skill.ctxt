@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Skill
+comment1.params=skillName\ damage\ manaCost
+comment1.target=Skill(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getDamage()
+comment4.params=
+comment4.target=int\ getCost()
+comment5.params=name
+comment5.target=Skill\ generateSkill(java.lang.String)
+numComments=6

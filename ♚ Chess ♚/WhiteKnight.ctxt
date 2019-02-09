@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=applet_
+comment0.target=WhiteKnight(processing.core.PApplet)
+comment1.params=
+comment1.target=void\ display()
+comment2.params=pieceNum
+comment2.target=int\ getX(int)
+comment3.params=pieceNum
+comment3.target=int\ getY(int)
+numComments=4
