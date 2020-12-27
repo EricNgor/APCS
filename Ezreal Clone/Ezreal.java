@@ -88,7 +88,7 @@ public class Ezreal extends PApplet {
     private Dummy dummy;
     private boolean reachedDest;
     public static void main(String[] args) {
-        PApplet.main(new String[] {"Cursor"});
+        PApplet.main(new String[] {"Ezreal"});
     }
 
     public void settings() {
